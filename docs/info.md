@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's a simple full-adder. Input a anb b are added with the carry
 
 ## How to test
 
-Explain how to use your project
+Test if the output corresponds (in binary) to how many inputs are on
 
 ## External hardware
 
